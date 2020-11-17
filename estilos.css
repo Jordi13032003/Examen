@@ -1,0 +1,18 @@
+#imagenes{
+width: 120px;
+height: 120px;
+white-space: 30px
+}
+#texto{
+	color: darkorange;
+	font-family: courier;
+}
+#text{
+	background-color: darkorange;
+	color: white;
+	font-family: sans-serif;
+}
+#atras{
+	color: orange;
+	font-size: 32px;
+}
